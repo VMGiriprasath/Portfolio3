@@ -1,2 +1,0 @@
-export default `*{font-family:Nunito,sans-serif}header,footer{font-family:Nunito,sans-serif}html{scroll-behavior:smooth}
-`;
